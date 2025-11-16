@@ -10,8 +10,9 @@ GitHub Finder is a React web app that lets you search GitHub users and view thei
 ---
 
 ### Screenshot
-
-![GitHub Finder Screenshot]()
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/cb080262-72b0-43dd-bcc4-e871071bd8ec" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/51330330-7ec1-477a-a25a-07bfe8bf4e6c" />
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/4eb87721-0314-4ec8-8255-7791badf4072" />
 
 ---
 
