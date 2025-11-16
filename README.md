@@ -14,7 +14,7 @@ GitHub Finder is a React web app that lets you search GitHub users and view thei
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/51330330-7ec1-477a-a25a-07bfe8bf4e6c" />
 <img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/4eb87721-0314-4ec8-8255-7791badf4072" />
 
-### [Website Demo]([http://localhost:5173](https://github-finder-steel-one-71.vercel.app/)
+### [Website Demo](https://github-finder-steel-one-71.vercel.app/)
 
 ---
 
