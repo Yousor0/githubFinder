@@ -119,17 +119,6 @@ github-finder/
 
 ---
 
-## Contributing
-
-1. Fork the repository
-2. Create a branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit (`git commit -m "Add feature"`)
-5. Push (`git push origin feature/your-feature`)
-6. Open a Pull Request
-
----
-
 ## License
 
 This project is licensed under the MIT License.
